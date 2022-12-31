@@ -7,12 +7,12 @@ main:
   - name: Home
     url: '#slider'
     weight: 10
-  - name: Publications
-    url: '#publications'
-    weight: 50    
   - name: People
     url: '#people'
     weight: 30
+  - name: Publications
+    url: '#publications'
+    weight: 35
   - name: Teaching
     url: '#teaching'
     weight: 40
