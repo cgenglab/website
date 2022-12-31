@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
-  font: native
+  theme_day: ocean
+  theme_night: minimal
+  font: minimal
   font_size: L
 
 # SEO
@@ -18,7 +18,7 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: 'Interactive Graphics & Engineering Lab'
-    #description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
+    description: 'a computer graphics laboratory in the University of Tokyo leaded by Nobuyuki Umetani'
     #twitter: 'wowchemy'
   analytics:
     google_analytics: ''
@@ -34,7 +34,7 @@ header:
     enable: true
     align: r
     show_logo: true
-    show_language: false
+    show_language: true
     show_day_night: false
     show_search: true
     highlight_active_link: false
@@ -43,12 +43,12 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Nobuyuki Umetani'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
-      allow_commercial: false
+      allow_commercial: false      
 
 # Localization
 
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/cgenglab/cgenglab.github.io'
     content_dir: content
     branch: main
   avatar:

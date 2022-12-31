@@ -11,6 +11,8 @@ en:
 ja:
   languageCode: ja
   contentDir: content/ja
+  # title: グラフィックスと工学ラボ
+
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:

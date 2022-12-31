@@ -1,6 +1,9 @@
 ---
 title: Latest News
 
+active: false
+headless: true
+
 # Listing view
 view: compact
 
