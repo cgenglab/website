@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yuji Moroto | Interactive Graphics &amp; Engineering Lab</title><link>https://cgenglab.github.io/en/authors/moroto/</link><atom:link href="https://cgenglab.github.io/en/authors/moroto/index.xml" rel="self" type="application/rss+xml"/><description>Yuji Moroto</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Nobuyuki Umetani 2023</copyright><lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://cgenglab.github.io/en/authors/moroto/avatar_hu9f30e3a86689650ed6a5791749948e8b_256816_270x270_fill_q75_lanczos_center.jpg</url><title>Yuji Moroto</title><link>https://cgenglab.github.io/en/authors/moroto/</link></image><item><title>Constant Time Median Filter using 2D Wavelet Matrix</title><link>https://cgenglab.github.io/en/publication/sigga22_wmatrix_median/</link><pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate><guid>https://cgenglab.github.io/en/publication/sigga22_wmatrix_median/</guid><description>&lt;h3 id="award">Award&lt;/h3>
+&lt;p>This paper got the SIGGRAPH Asia 2022 Best Paper Award.&lt;/p>
+&lt;h3 id="supplementary-materials-code">Supplementary Materials Code&lt;/h3>
+&lt;p>We are currently preparing an implementation of a median filter using wavelet matrix for release on GitHub.
+Until the GitHub repository is ready for publication, we are publishing the supplementary materials code for the paper submission.
+This code is based on &lt;a href="https://dl.acm.org/doi/10.1145/3450626.3459773" target="_blank" rel="noopener">the Supplemental Material Code for &amp;ldquo;Fast median filters using separable sorting networks&amp;rdquo;&lt;/a> [Adams 2021], with the addition of our methods.
+This supplementary materials includes code for CPUs, where readability is more important than speed, and code for CUDAs, where speed is the highest priority.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://drive.google.com/file/d/1Jr2mQlixt_tN-vo2gfvgMCRx46nVgNsF/view?usp=sharing" target="_blank" rel="noopener">Download here (Google Drive)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>The GitHub version, to be released in November, will include the following updates&lt;/p>
+&lt;ul>
+&lt;li>Improved readability&lt;/li>
+&lt;li>Support for multiple channels&lt;/li>
+&lt;li>Reduced memory usage by about 40~50%.&lt;/li>
+&lt;/ul></description></item><item><title>Fast Polygonal Splatting using Directional Kernel Difference</title><link>https://cgenglab.github.io/en/publication/egsr21_blur/</link><pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate><guid>https://cgenglab.github.io/en/publication/egsr21_blur/</guid><description>&lt;h3 id="filtered-images">Filtered Images&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://drive.google.com/drive/folders/1xofVIxNZZG3eti7dFWIW1jv8N0wu68OR" target="_blank" rel="noopener">Google Drive&lt;/a> (&lt;a href="https://drive.google.com/file/d/1yEaI9trRX-nx3-cQ15vqOY7eA7xoYah3/view?usp=sharing" target="_blank" rel="noopener">Download All&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;h3 id="presentation-video">Presentation Video&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=F5sRzwi_Q5E" target="_blank" rel="noopener">YouTube&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="products-using-this-technology">Products using This Technology&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://aescripts.com/fast-camera-lens-blur/" target="_blank" rel="noopener">Fast Camera Lens Blur&lt;/a>
+&amp;ndash; A high-speed camera lens blur plug-in that works with Adobe After Effects/Premiere Pro.&lt;/li>
+&lt;/ul></description></item></channel></rss>
