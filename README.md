@@ -8,32 +8,20 @@ Look at the document at (https://wowchemy.com/docs/)
 ## Quick Preview
 
 ```bash
-$ hugo
+$ hugo server
 ```
 
 Then, look at http://localhost:1313
 
 
-
-## Updating Theme
-
-To update the theme, type
-
-```bash
-$ sh update_wowchemy.sh
-```
-
-
-
 ## Updating Publication
 
-To add publication, make a new folder under `labpage/content/en/publication` and put a markdown document `index.md`.
+To add publication, make a new folder under `content/en/publication` and put a markdown document `index.md`.
 
 
 ## Updating Members
 
-To add members, make new folders under `labpage/content/en/authors` and `labpage/content/jp/authors`and put markdown a document `_index.md` in each folder. 
-
+To add members, make new folders under `content/en/authors` and `content/jp/authors`and put markdown a document `_index.md` in each folder. 
 
 
 ## Upload the Webpage
@@ -45,7 +33,6 @@ $ git add .
 $ git commit -m "explain about the update here"
 $ git push
 ```
-
 
 
 ## Notes	 
