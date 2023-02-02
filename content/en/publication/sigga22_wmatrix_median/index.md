@@ -33,12 +33,14 @@ tags:
 featured: false
 
 links:
-- name: Paper PDF
+- name: ACM DL
   url: https://dl.acm.org/doi/abs/10.1145/3550454.3555512
 - name: GitHub Code
   url: https://github.com/TumoiYorozu/WMatrixMedian
 - name: YouTube (18min)
   url: https://www.youtube.com/watch?v=4_QNDYUcckM
+- name: PDF
+  url: https://www.dropbox.com/s/8f9k88xqn4ecgv1/2022_sigga_wavelet.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
