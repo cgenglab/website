@@ -40,7 +40,8 @@ user_groups:
 I'm a master student of the Department of Creative Informatics at the University of Tokyo, supervised by Prof. Nobuyuki Umetani. I obtained my bachelor degree in Computer Science and Technology from Peking University. My research interest is Computer Graphics, especially realistic and real-time simulation. <br>
 Besides, I'm also excited in superhero movies, astrophotography, as well as discoveries of relationship between different languages. If you have similar interests, I'm very glad to have a coffee time with you :)
 
-
+### Master's Thesis
+Frequency Domain Reconstruction of Density Field from Images with Unknown Camera Poses
 
 
 

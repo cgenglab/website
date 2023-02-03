@@ -29,3 +29,6 @@ user_groups:
 - Master Students
 ---
 
+### Master's Thesis
+Learning Mesh Independent Physically-based Character Deformation
+

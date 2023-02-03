@@ -31,3 +31,6 @@ user_groups:
 
 ### Links
 <a href="https://kenji-tojo.github.io/">Personal Website<a>
+
+### Master's Thesis
+Recolorable Posterization of Neural Radiance Fields Using Visibility-Weighted Palette Extraction

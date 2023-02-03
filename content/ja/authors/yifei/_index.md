@@ -38,6 +38,9 @@ user_groups:
 
 I have a great interest in research about Data-Driven Animation and Machine Learning. I received my bachelor’s degree from New York Institute of Technology. Hobbies including developing indie game, watching anime and discovering traditional tasty food (=^･ω･^)y＝
 
+### 修士論文
+
+フェーズベースのフーリエ特徴ネットワークを用いた高周波キャラクターアニメーションの合成
 
 
 

@@ -66,5 +66,7 @@ I have a great interest in research about Data-Driven Animation and Machine Lear
 - Anime
 - Traveling
 
+### Master's Thesis
+Synthesizing High-Frequency Character Animation Using Phase-based Fourier Feature Network
 
 
