@@ -20,13 +20,13 @@ publishDate: "2021-06-26T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Eurographics Symposium on Rendering 2021*
-publication_short: In *EGSR 2021*
+publication: Proceedings of Eurographics Symposium on Rendering 2021
+publication_short: EGSR 2021
 
 abstract: Depth-of-field (DoF) filtering is an important image-processing task for producing blurred images similar to those obtained with a large aperture camera lens. DoF filtering applies an image convolution with a spatially varying kernel and is thus computationally expensive, even on modern computational hardware. In this paper, we introduce an approach for fast and accurate DoF filtering for polygonal kernels, where the value is constant inside the kernel. Our approach is an extension of the existing approach based on discrete differenced kernels. The performance gain here hinges upon the fact that kernels typically become sparse (i.e., mostly zero) when taking the difference. We extended the existing approach to conventional axis-aligned differences to non-axis-aligned differences. The key insight is that taking such differences along the directions of the edges makes polygonal kernels significantly sparser than just taking the difference along the axis-aligned directions, as in existing studies. Compared to a naive image convolution, we achieve an order of magnitude speedup, allowing a real-time application of polygonal kernels even on high-resolution images.
 
 # Summary. An optional shortened abstract.
-summary: We present a technique for fast and accurate DoF filtering for polygonal kernels by extending the conventional axis-aligned differences to non-axis-aligned differences. 
+summary: Proceedings of EGSR 2021
 
 tags:
 - Image Processing

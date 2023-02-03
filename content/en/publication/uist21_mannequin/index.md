@@ -19,8 +19,8 @@ publishDate: "2017-08-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In Proceedings of the 33rd Annual ACM Symposium on User Interface Software and Technology
-publication_short: In UIST 2021
+publication: Proceedings of the 34th Annual ACM Symposium on User Interface Software and Technology
+publication_short: UIST 2021
 
 abstract: |
   Virtual try-on is a promising application of computer graphics and human computer interaction that can have a profound real-world impact especially during this pandemic. Existing image-based works try to synthesize a try-on image from a single image of a target garment, but it inherently limits the ability to react to possible interactions. It is difficult to reproduce the change of wrinkles caused by pose and body size change, as well as pulling and stretching of the garment by hand.\
@@ -32,7 +32,7 @@ abstract: |
 
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Proceedings of UIST 2021
 
 tags:
 - Cloth Modeling

@@ -19,13 +19,13 @@ publishDate: "2021-03-16T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Eurographics 2021 Short Paper Program (EG 2021 short)*
-publication_short: In *EG 2021 short*
+publication: Eurographics 2021 Short Paper Program
+publication_short: EG 2021 short
 
 abstract: Three-dimensional scanning technology recently becomes widely available to the public. However, it is difficult to simulate clothing deformation from the scanned people because scanned data lacks information required for the clothing simulation. In this paper, we present a technique to estimate clothing patterns from a scanned person in cloth. Our technique uses image-based deep learning to estimate the type of pattern on the projected image. The key contribution is converting image-based inference into three-dimensional clothing pattern estimation. We evaluate our technique by applying our technique to an actual scan. 
 
 # Summary. An optional shortened abstract.
-summary: We present a technique to estimate clothing patterns from a 3D geometry of a person in cloth. Our technique uses image-based deep learning to estimate the type of pattern on the projected image. 
+summary: Eurographics 2021 Short Paper Program
 
 tags:
 - Cloth Modeling

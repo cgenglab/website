@@ -27,7 +27,7 @@ abstract:
 
 
 # Summary. An optional shortened abstract.
-summary: In this paper, we propose an algorithm to allow users to interactively edit the singularity positions of field-aligned stripe patterns.
+summary: Proceedings of SIGGRAPH Asia 2022
 
 tags:
 - Computational Fabrication

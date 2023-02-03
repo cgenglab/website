@@ -26,7 +26,7 @@ publication_short: In *EG 2022 short*
 abstract: We present a neural-network-based compression method to alleviate the storage cost of motion capture data. Human motions such as locomotion, often consist of periodic movements. We leverage this periodicity by applying Fourier features to a multilayered perceptron network. Our novel algorithm finds a set of Fourier feature frequencies based on the discrete cosine transformation (DCT) of motion. During training, we incrementally added a dominant frequency of the DCT to a current set of Fourier feature frequencies until a given quality threshold was satisfied. We conducted an experiment using CMU motion dataset, and the results suggest that our method achieves overall high compression ratios while maintaining its quality.
 
 # Summary. An optional shortened abstract.
-summary: We present a neural-network-based compression method to alleviate the storage cost of motion capture data. We leverage this periodicity by applying Fourier features to a multilayered perceptron network. 
+summary: Eurographics 2022 Short Paper Program
 
 tags:
 - Data-driven Animation

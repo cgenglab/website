@@ -16,7 +16,7 @@ publishDate: "2017-08-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ACM Transactions on Graphics
+publication: ACM Transactions on Graphics 40(6) (SIGGRAPH Asia 2021)
 publication_short: SIGGRAPH Asia 2021
 
 abstract: |
@@ -25,7 +25,7 @@ abstract: |
 
 
 # Summary. An optional shortened abstract.
-summary: In this paper we present a path-based method for incorporating feature lines into physically-based rendering by modeling them as view-dependent, implicit light sources.
+summary: ACM Transactions on Graphics 40(6) (SIGGRAPH Asia 2021)
 
 tags:
 - Rendering

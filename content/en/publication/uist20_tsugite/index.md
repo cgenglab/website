@@ -24,7 +24,7 @@ publication_short: In UIST 2020
 abstract: We present Tsugite—an interactive system for designing and fabricating wood joints for frame structures. To design and manually craft such joints is difficult and time consuming. Our system facilitates the creation of custom joints by a modeling interface combined with computer numerical control (CNC) fabrication. The design space is a 3D grid of voxels that enables efficient geometrical analysis and combinatorial search. The interface has two modes":" manual editing and gallery. In the manual editing mode, the user edits a joint while receiving real-time graphical feedback and suggestions provided based on performance metrics including slidability, fabricability, and durability with regard to the direction of fiber. In the gallery mode, the user views and selects feasible joints that have been pre-calculated. When a joint design is finalized, it can be manufactured with a 3-axis CNC milling machine using a specialized path planning algorithm that ensures joint assemblability by corner rounding. This system was evaluated via a user study and by designing and fabricating joint samples and functional furniture.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Proceedings of UIST 2020
 
 tags:
 - Computational Fabrication
