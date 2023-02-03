@@ -42,12 +42,13 @@ user_groups:
 - 卒業生
 ---
 
-
 Rex West is a Ph.D student of the Department of Creative Informatics at The University of Tokyo.  
 
 ### Online CV
 <a href="http://cv.rexwe.st/">cv.rexwe.st<a>
 
+### 博士論文
+連続領域における多重重点的サンプリングと光輸送シミュレーションにおけるパスサンプリングへの応用
 
 
 

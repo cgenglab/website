@@ -42,11 +42,13 @@ user_groups:
 - Alumni
 ---
 
-
 Rex West is a Ph.D student of the Department of Creative Informatics at The University of Tokyo.  
 
 ### Online CV
 <a href="http://cv.rexwe.st/">cv.rexwe.st<a>
+
+### Doctoral Thesis
+Multiple importance sampling for continuous domains and applications in path sampling for light transport simulation
 
 
 

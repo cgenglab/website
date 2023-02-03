@@ -20,5 +20,6 @@ height = "50px"
 
 <H3>News</H3>
 <ul>
-<li>(２０２２年１２月) 博士２年の<a href="authors/moroto/">諸戸雄治</a>さんが第一著者の<a href="../en/publication/sigga22_wmatrix_median/">論文</a>が、SIGGRAPH Asia 2022においてBest Paper Awardを受賞しました。</li>
+<li>(2023年1月) ４人の修士生（東條 健治，張 元瑋，櫻井 凛太郎，陳　逸⾶）が修士論文審査に合格しました．</li>
+<li>(2022年12月) 博士２年の<a href="authors/moroto/">諸戸雄治</a>さんが第一著者の<a href="../en/publication/sigga22_wmatrix_median/">論文</a>が、SIGGRAPH Asia 2022においてBest Paper Awardを受賞しました。</li>
 </ul>

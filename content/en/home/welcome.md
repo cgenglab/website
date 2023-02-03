@@ -21,6 +21,7 @@ The Interactive Graphics and Engineering Laboartory is in the <a href="https://w
 
 <H3>News</H3>
 <ul>
+<li>(Jan. 2023)	For students (Kenji Tojo, Yuanwei Zhang, Rintaro Sakurai, and Yifei Chen) successfully defended their master's thesis</li>
 <li>(Dec. 2022) <a href="publication/sigga22_wmatrix_median/">Our paper</a> first authored by <a href="authors/moroto/">Yuji Moroto</a> won the Best Paper Award at SIGGRAPH Asia 2022.</li>
 </ul>
 
