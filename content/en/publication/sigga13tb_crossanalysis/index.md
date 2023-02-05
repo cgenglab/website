@@ -16,13 +16,13 @@ publishDate: "2013-11-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ACM SIGGRAPH Asia 2013 Technical Brief Program*
-publication_short: In *SIGG. Asia 2013 Tech. Brief*
+publication: SIGGRAPH Asia 2013 Technical Briefs
+publication_short: SIGG. Asia 2013 Tech. Briefs
 
 abstract: We propose a novel cross-sectional structural analysis technique that efficiently detects critical stress inside a 3D object. We slice the object into cross-sections and compute stress based on bending momentum equilibrium. Unlike traditional approaches based on finite element methods, our method doesn’t require a volumetric mesh or solution of linear systems, enabling interactive analysis speed. Based on the stress analysis, the orientation of an object is optimized to increase mechnanical strength when manufactured with 3D printing.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: SIGGRAPH Asia 2013 Technical Briefs
 
 tags:
 - Geometry Processing

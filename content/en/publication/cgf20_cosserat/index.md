@@ -1,5 +1,5 @@
 ---
-title: "A Curvature and Density‐based Generative Representation of Shapes"
+title: "Cosserat Rod with rh-Adaptive Discretization"
 authors:
 - Jiahao Wen  
 - Jiong Chen 
@@ -20,13 +20,13 @@ publishDate: "2020-11-24T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Computer Graphics Forum 2020
-publication_short: In CGF 2020
+publication: Computer Graphics Forum 39(7) (Pacific Graphics 2020)
+publication_short: CGF (Pacific Graphcis 2022)
 
 abstract: Rod‐like one‐dimensional elastic objects often exhibit complex behaviors which pose great challenges to the discretization method for pursuing a faithful simulation. By only moving a small portion of material points, the Eulerian‐on‐Lagrangian (EoL) method already shows great adaptivity to handle sharp contact, but it is still far from enough to reproduce rich and complex geometry details arising in simulations. In this paper, we extend the discrete configuration space by unifying all Lagrangian and EoL nodes in representation for even more adaptivity with every sample being assigned with a dynamic material coordinate. However, this great extension will immediately bring in much more redundancy in the dynamic system. Therefore, we propose additional energy to control the spatial distribution of all material points, seeking to equally space them with respect to a curvature‐based density field as a monitor. This flexible approach can effectively constrain the motion of material points to resolve numerical degeneracy, while simultaneously enables them to notably slide inside the parametric domain to account for the shape parameterization. Besides, to accurately respond to sharp contact, our method can also insert or remove nodes online and adjust the energy stiffness to suppress possible jittering artifacts that could be excited in a stiff system. As a result of this hybrid rh‐adaption, our proposed method is capable of reproducing many realistic rod dynamics, such as excessive bending, twisting and knotting while only using a limited number of elements.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Computer Graphics Forum 39(7) (Pacific Graphics 2020)
 
 tags:
 - Physics Simulation

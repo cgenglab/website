@@ -18,13 +18,13 @@ publishDate: "2014-05-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Proceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA 2014)
+publication: Proceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '14)
 publication_short: SCA 2014
 
 abstract: We present a novel method to simulate complex bending and twisting of elastic rods. Elastic rods are commonly simulated using force based methods, such as the finite element method. These methods are accurate, but do not directly fit into the more efficient position-based dynamics framework, since the definition of material frames are not entirely based on positions. We introduce ghost points, which are additional points defined on edges, to naturally endow continuous material frames on discretized rods. We achieve robustness by a novel discretization of the Cosserat theory. The method supports coupling with a frame, a triangle, and a rigid body at the rod’s end point. Our formulation is highly efficient, capable of simulating hundreds of strands in real-time.
 
 # Summary. An optional shortened abstract.
-summary: Proceedings of SCA 2014
+summary: Proceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '14)
 
 tags:
 - Physics Simulation

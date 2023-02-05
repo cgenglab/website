@@ -18,13 +18,13 @@ publishDate: "2011-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ACM Transation of Graphics (SIGGRAPH 2011)*
-publication_short: In *SIGGRAPH 2011*
+publication: ACM Transation of Graphics 30(4) (SIGGRAPH 2011)
+publication_short: SIGGRAPH 2011
 
 abstract: We present a novel interactive tool for garment design that enables, for the first time, interactive bidirectional editing between 2D patterns and 3D high-fidelity simulated draped forms. This provides a continuous, interactive, and natural design modality in which 2D and 3D representations are simultaneously visible and seamlessly maintain correspondence. Artists can now interactively edit 2D pattern designs and immediately obtain stable accurate feedback online, thus enabling rapid prototyping and an intuitive understanding of complex drape form.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ACM Transation of Graphics 30(4) (SIGGRAPH 2011)
 
 tags:
 - Physics Simulation
