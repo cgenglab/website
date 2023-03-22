@@ -33,7 +33,7 @@ email: "n.umetani@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 修士学生
+- 卒業生
 ---
 
 I have a great interest in research about Data-Driven Animation and Machine Learning. I received my bachelor’s degree from New York Institute of Technology. Hobbies including developing indie game, watching anime and discovering traditional tasty food (=^･ω･^)y＝

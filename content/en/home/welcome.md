@@ -15,13 +15,13 @@ The Interactive Graphics and Engineering Laboartory is in the <a href="https://w
 <H3>Admission</H3>
 <ul>
 <li>We are recruting hardworking master and Ph.D students. Please take a look at the admission information on the <a href="https://www.i.u-tokyo.ac.jp/edu/entra/entra_e.shtml" target="_blank">the department's page</a>. If there is anything unclear, drop me an <a href="mailto:n.umetani@gmail.com">email</a>. </li>
-<li>Introduction of the labratory can be seen <a href="../media/labintro2020_en.pdf" target="_blank">here</a></li>
 </ul>
 
 
 <H3>News</H3>
 <ul>
-<li>(Jan. 2023)	For students (Kenji Tojo, Yuanwei Zhang, Rintaro Sakurai, and Yifei Chen) successfully defended their master's thesis</li>
+<li>(Mar. 2023) Dean's prize for outstanding thesis was awarded to Rex West (for his PhD thesis) and Kenji Tojo (for his Master's thesis).</li>
+<li>(Jan. 2023)	Four students (Kenji Tojo, Yuanwei Zhang, Rintaro Sakurai, and Yifei Chen) successfully defended their master's thesis</li>
 <li>(Dec. 2022) <a href="publication/sigga22_wmatrix_median/">Our paper</a> first authored by <a href="authors/moroto/">Yuji Moroto</a> won the Best Paper Award at SIGGRAPH Asia 2022.</li>
 </ul>
 

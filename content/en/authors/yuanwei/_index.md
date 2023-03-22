@@ -29,12 +29,12 @@ bio:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "n.umetani@gmail.com"
+# email: "n.umetani@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Alumni
 ---
 
 I'm a master student of the Department of Creative Informatics at the University of Tokyo, supervised by Prof. Nobuyuki Umetani. I obtained my bachelor degree in Computer Science and Technology from Peking University. My research interest is Computer Graphics, especially realistic and real-time simulation. <br>

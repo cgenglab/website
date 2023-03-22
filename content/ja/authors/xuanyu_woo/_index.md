@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 櫻井　凛太郎
+title: 呉　軒宇
 
 # Username (this should match the folder name)
 authors: 
-- rintaro
+- xuanyu_woo
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 修士学生(M2)
+role: 修士学生(M1)
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,9 +26,6 @@ role: 修士学生(M2)
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 卒業生
+- 修士学生
 ---
-
-### 修士論文
-物理に基づくキャラクタの変形のメッシュに依存しない学習手法の開発
 
