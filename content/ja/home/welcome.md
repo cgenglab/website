@@ -15,12 +15,11 @@ height = "50px"
 <H3>入学案内</H3>
 <ul>
 <li>修士や博士の学生を募集中です．入学については<a href="https://www.i.u-tokyo.ac.jp/edu/entra/index.shtml" target="_blank">専攻のページ</a>をご覧ください. 何か不明な点があれば<a href="mailto:n.umetani@gmail.com">メール</a>を下さい. </li>
-<li>研究室の案内を<a href="../media/labintro2020_jp.pdf" target="_blank">ここ</a>にアップロードしました．</li>
 </ul>
 
 <H3>News</H3>
 <ul>
-<li>令和４年度修了学生の学位記伝達式がおこなわれ、同時にRex West（博士課程）と、東條健二（修士課程）に研究科長賞が授与されました。</li>	
+<li>令和４年度修了学生の学位記伝達式がおこなわれ、同時にRex West（博士課程）と、東條建治（修士課程）に研究科長賞が授与されました。</li>	
 <li>(2023年1月) ４人の修士生（東條 建治，張 元瑋，櫻井 凛太郎，陳　逸⾶）が修士論文審査に合格しました．</li>
 <li>(2022年12月) 博士２年の<a href="authors/moroto/">諸戸雄治</a>さんが第一著者の<a href="../en/publication/sigga22_wmatrix_median/">論文</a>が、SIGGRAPH Asia 2022においてBest Paper Awardを受賞しました。</li>
 </ul>
