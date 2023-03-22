@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 呉　軒宇
+title: 呉　軒宇(Xuanyu Woo)
 
 # Username (this should match the folder name)
 authors: 
