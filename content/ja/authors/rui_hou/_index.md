@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 鋭 侯(Rui Hou)
+title: 侯 鋭(Rui Hou)
 
 # Username (this should match the folder name)
 authors: 
