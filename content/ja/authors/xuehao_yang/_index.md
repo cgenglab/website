@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 楊 学昊(Xuehao Yang)
+title: 楊　学昊(Xuehao Yang)
 
 # Username (this should match the folder name)
 authors: 
