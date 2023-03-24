@@ -21,8 +21,8 @@ height = "50px"
 <table>
 <tr valign='top'>
 	<td width=130px>(2023年3月) </td>
-	<td width=520px>令和４年度修了学生の学位記伝達式がおこなわれ、同時にRex West（博士課程）と、東條建治（修士課程）に研究科長賞が授与されました。</td>
-	<td><img src='https://github.com/cgenglab/cgenglab.github.io/raw/doc/20230323_dean_award.jpg' width=200px></td>
+	<td>令和４年度修了学生の学位記伝達式がおこなわれ、同時にRex West（博士課程）と、東條建治（修士課程）に研究科長賞が授与されました。</td>
+	<td width=240px align=middle><img src='https://github.com/cgenglab/cgenglab.github.io/raw/doc/20230323_dean_award.jpg' width=200px></td>
 </tr>
 <tr valign='top'>
 	<td>(2023年1月)</td>
@@ -31,7 +31,7 @@ height = "50px"
 <tr valign='top'>
 	<td>(2022年12月)</td>
 	<td>博士２年の<a href="authors/moroto/">諸戸雄治</a>さんが第一著者の<a href="../en/publication/sigga22_wmatrix_median/">論文</a>が、SIGGRAPH Asia 2022においてBest Paper Awardを受賞しました。</td>
-	<td><img src='https://github.com/cgenglab/cgenglab.github.io/raw/doc/2022_sigga_bestpaper.jpeg' width=200px></td>
+	<td width=240px align=middle><img src='https://github.com/cgenglab/cgenglab.github.io/raw/doc/2022_sigga_bestpaper.jpeg' width=200px></td>
 </tr>
 </table>
 
