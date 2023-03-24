@@ -19,12 +19,20 @@ The Interactive Graphics and Engineering Laboartory is in the <a href="https://w
 
 
 <H3>News</H3>
-<ul>
-<li>(Mar. 2023) Dean's prize for outstanding thesis was awarded to Rex West (for his PhD thesis) and Kenji Tojo (for his Master's thesis).</li>
-<li>(Jan. 2023)	Four students (Kenji Tojo, Yuanwei Zhang, Rintaro Sakurai, and Yifei Chen) successfully defended their master's thesis</li>
-<li>(Dec. 2022) <a href="publication/sigga22_wmatrix_median/">Our paper</a> first authored by <a href="authors/moroto/">Yuji Moroto</a> won the Best Paper Award at SIGGRAPH Asia 2022.</li>
-</ul>
-
-
+<table>
+<tr valign='top'>	
+<td width=130px>(Mar. 2023)</td>
+<td>Dean's prize for outstanding thesis was awarded to Rex West (for his PhD thesis) and Kenji Tojo (for his Master's thesis).</td>
+<td width=240px align=middle><img src='https://github.com/cgenglab/cgenglab.github.io/raw/doc/20230323_dean_award.jpg' width=200px></td>
+</tr><tr>
+<td>(Jan. 2023)</td>
+<td>Four students (Kenji Tojo, Yuanwei Zhang, Rintaro Sakurai, and Yifei Chen) successfully defended their master's thesis.</td>
+<td></td>
+</tr><tr valign='top'>
+<td>(Dec. 2022)</td>
+<td><a href="publication/sigga22_wmatrix_median/">Our paper</a> first authored by <a href="authors/moroto/">Yuji Moroto</a> won the Best Paper Award at SIGGRAPH Asia 2022.</td>
+<td width=240px align=middle><img src='https://github.com/cgenglab/cgenglab.github.io/raw/doc/2022_sigga_bestpaper.jpeg' width=200px></td>	
+</tr>
+</table>
 
 
