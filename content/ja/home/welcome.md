@@ -20,6 +20,10 @@ height = "50px"
 <H3>News</H3>
 <table>
 <tr valign='top'>
+	<td width=130px>(2023年5月) </td>
+	<td>SIGGRAPH 2023に１つの論文が採択されました</td>
+</tr>
+<tr valign='top'>
 	<td width=130px>(2023年3月) </td>
 	<td>令和４年度修了学生の学位記伝達式がおこなわれ、同時にRex West（博士課程）と、東條建治（修士課程）に研究科長賞が授与されました。</td>
 	<td width=240px align=middle><img src='https://github.com/cgenglab/cgenglab.github.io/raw/doc/20230323_dean_award.jpg' width=200px></td>
