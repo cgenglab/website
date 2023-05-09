@@ -21,6 +21,10 @@ The Interactive Graphics and Engineering Laboartory is in the <a href="https://w
 <H3>News</H3>
 <table>
 <tr valign='top'>	
+<td width=130px>(May. 2023)</td> 
+<td>One paper is accepted at SIGGRAPH 2023</td>
+<td></td>
+<tr>
 <td width=130px>(Mar. 2023)</td>
 <td>Dean's prize for outstanding thesis was awarded to Rex West (for his PhD thesis) and Kenji Tojo (for his Master's thesis).</td>
 <td width=240px align=middle><img src='https://github.com/cgenglab/cgenglab.github.io/raw/doc/20230323_dean_award.jpg' width=200px></td>
