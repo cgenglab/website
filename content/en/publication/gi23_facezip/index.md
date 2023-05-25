@@ -20,13 +20,13 @@ publishDate: "2023-05-11T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Graphics Interface 2022*
-publication_short: In *GI 2022*
+publication: In *Graphics Interface 2023*
+publication_short: In *GI 2023*
 
 abstract: Recently, numerous cinematic and interactive entertainment production companies have adopted advanced capture systems to acquire faithful facial geometries and corresponding textures. However, it is difficult to animate these models in a controllable manner for real-time applications. Although blendshape is typically used for parameterizing facial geometries, dynamically changing the texture of the geometry is challenging. Because texture data are significantly larger than the vertex coordinates of the meshes, storing the texture of all the blendshape meshes is impractical. We present a method to compress texture data in a manner compatible with blendshape for real-time applications such as video games. Our method takes advantage of the locality of facial texture differences by blending a few textures with spatially different weights. Our method achieved a more accurate reconstruction of the original textures compared with the baseline principal component analysis. 
 
 # Summary. An optional shortened abstract.
-summary: Proceedings of Grahics Interface 2023
+summary: Proceedings of Graphics Interface 2023
 
 tags:
 - Interactive Modeling
