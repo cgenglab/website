@@ -65,7 +65,10 @@ image:
 ---
 
 ### Award
-This paper got the SIGGRAPH Asia 2022 Best Paper Award.
+This paper got the SIGGRAPH Asia 2022 **Best Paper Award**.
+
+### Errata
+- In Algorithm 3 (LowFreq), lines 6 and 10 are unnecessary (they do not affect the algorithm)
 
 ### Supplementary Materials Code
 We are currently preparing an implementation of a median filter using wavelet matrix for release on GitHub.
