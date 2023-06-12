@@ -38,6 +38,8 @@ featured: false
 links:
 - name: OpenReview
   url: https://openreview.net/forum?id=AUa_CiMnZ9
+- name: Presentation Video
+  url: https://www.youtube.com/watch?v=-cxEloddXKs
 url_pdf: https://www.dropbox.com/s/c0qgpn8sehwsyvt/2023_gi_facezip.pdf?dl=0
 
 # Featured image
