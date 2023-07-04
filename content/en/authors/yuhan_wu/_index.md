@@ -54,10 +54,18 @@ user_groups:
 
 
 # **Biography**
-I love physics, coding, and game design. Currently I'm devoting most of my time into exploring how to recreate physical reality in digital world. In my spare time I make some mini games.
+<p>I'm a second year master student at the Interactive Graphics and Engineering labin the University of Tokyo.</p>
+<p>Before coming to Japan, I received my major degree in Physics and Mathematics, and a second degree in Digital
+        Media Art from Tsinghua University in 2020.</p>
+<p> I worked as a game designer and developer at <a href="https://betta-games.com/">Betta Games</a> from 2020 to
+        April 2021.</p>
+<p>Currently I focus on research about physics-based animaiton, especially interactive design supported by
+        physics.</p>
+<p>My tenet is the <b>beauty of simplicity</b>.</p>
 
 ### Research Interests
 - Physics-based simulation
+- Interactive Design
 
 ### Hobbies
 - Indie Game
