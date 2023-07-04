@@ -21,20 +21,22 @@ publication: Proceedings of the ACM in Computer Graphics and Interactive Techniq
 publication_short: PACMCGIT jounrnal (SCA 2023)
 
 abstract:
-  "Skinning transformations allow digital characters to be animated with minimal user inputs. Physics simulations can improve the detailed dynamic movement of the animated character; however, such details are typically added in the post-processing stage after the overall animation is specified. We propose a novel interactive framework that unifies skinning transformations and kinematic simulations using position-based dynamics (PBD). Our framework allows an arbitrarily skinned character to be partially manipulated by the user, and a kinematic physics solver automatically complements the behavior of the entire character. We achieve this by introducing new steps in the PBD algorithm, (i) lightweight optimization to identify the skinning transformations, which is similar to inverse kinematics, and (ii) a position-based constraint to restrict the PBD solver in the complementary subspace of the skinning deformation. Our method combines the best of the two methods: the controllability and shape preservation of the skinning transformation and the efficiency, simplicity, and unconditional stability of the PBD solver. Our interface allows novices to create vibrant animations without the need for tedious editing."
+  "Skinning transformations enable digital characters to be animated with minimal user input. Physics simulations can improve the detailed dynamic movement of an animated character; however, such details are typically added in the post-processing stage after the overall animation is specified. We propose a novel interactive framework that unifies skinning transformations and kinematic simulations using position-based dynamics (PBD). Our framework allows an arbitrarily skinned character to be partially manipulated by the user, and a kinematic physics solver automatically complements the behavior of the entire character. This is achieved by introducing new steps into the PBD algorithm: (i) lightweight optimization to identify the skinning transformations, which is similar to inverse kinematics, and (ii) a position-based constraint to restrict the PBD solver to the complementary subspace of the skinning deformation. Our method combines the best of the two methods: the controllability and shape preservation of the skinning transformation, and the efficiency, simplicity, and unconditional stability of the PBD solver. Our interface allows novices to create vibrant animations without tedious editing."
 
 # Summary. An optional shortened abstract.
 summary: PACMCGIT journal (SCA 2023)
 
 tags:
-- Computational Fabrication
-- Geometry Processing
-- Rendering
+- Physics Simulation
 featured: false
 
 links:
 - name: Project Page
   url: https://yoharol.github.io/pages/control_pbd/
+
+
+
+youtubeid: 6Sm_JwhTLKc
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
