@@ -35,7 +35,7 @@ user_groups:
 - [Fast Polygonal Splatting using Directional Kernel Difference (EGSR2021. 英語)](../../../en/publication/egsr21_blur/)
 
 ### その他
-- ACM SIGGRAPH : SIGGRAPH Asia 2022 Best Technical Paper Award
+- ACM SIGGRAPH : SIGGRAPH Asia 2022 [**Best Paper Award**](https://sa2022.siggraph.org/en/attend/award-winners/)
 - ACM ICPC 2018 World Finals 出場
 - JST次世代研究者挑戦的研究プログラム (SPRING GX) 採択 2021-2024
 
