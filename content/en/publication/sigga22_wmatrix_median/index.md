@@ -65,7 +65,7 @@ image:
 ---
 
 ### Award
-This paper got the SIGGRAPH Asia 2022 **Best Paper Award**.
+This paper got the SIGGRAPH Asia 2022 [**Best Paper Award**](https://sa2022.siggraph.org/en/attend/award-winners/).
 
 ### Errata
 - In Algorithm 3 (LowFreq), lines 6 and 10 are unnecessary (they do not affect the algorithm)
