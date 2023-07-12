@@ -33,9 +33,11 @@ user_groups:
 ### 発表
 - [Constant Time Median Filter using 2D Wavelet Matrix (SIGGRAPH Aisa 2022. 英語)](../../../en/publication/sigga22_wmatrix_median/)
 - [Fast Polygonal Splatting using Directional Kernel Difference (EGSR2021. 英語)](../../../en/publication/egsr21_blur/)
+- [MN-Coreアクセラレータ上での高速フーリエ変換の実装と評価 (第188回HPC研究発表会)](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=225178&item_no=1&page_id=13&block_id=8)
 
 ### その他
-- ACM SIGGRAPH : SIGGRAPH Asia 2022 [**Best Paper Award**](https://sa2022.siggraph.org/en/attend/award-winners/)
+- ACM SIGGRAPH : SIGGRAPH Asia 2022 [**Best Technical Paper Award**](https://sa2022.siggraph.org/en/attend/award-winners/)
+- 情報処理学会 2023年度 [コンピュータサイエンス領域奨励賞](https://www.ipsj.or.jp/award/cs-award.html)
 - ACM ICPC 2018 World Finals 出場
 - JST次世代研究者挑戦的研究プログラム (SPRING GX) 採択 2021-2024
 

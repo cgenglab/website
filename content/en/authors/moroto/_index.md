@@ -38,6 +38,7 @@ user_groups:
 
 ### Awards and Honors
 - ACM SIGGRAPH : SIGGRAPH Asia 2022 [**Best Technical Paper Award**](https://sa2022.siggraph.org/en/attend/award-winners/)
+- IPSJ [Computer Science Research Award for Young Scientists 2023](https://www.ipsj.or.jp/award/cs-award.html)
 - JST Support for Pioneering Research Initiated by the Next Generation (SPRING GX) 2021-2024
 - ACM ICPC 2018 World Finals
 
