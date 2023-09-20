@@ -45,7 +45,7 @@ user_groups:
 
 ### About Avater
 The avatar image consists of 425 translucent circles.
-Click [here](./avatar.jpg) to see the full quality image.
+Click [here](./avatar_circle.jpg) to see the full quality image.
 This was generated using the solver for the TopCoder Marathon Match 95.
 
 
