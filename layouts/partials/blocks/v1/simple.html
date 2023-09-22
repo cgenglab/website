@@ -1,0 +1,17 @@
+<!-- <div style="{{ printf "height: %s;" .page.Params.height | safeCSS }}"> -->
+
+{{/* Get variables */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
+<div align=center style="font-size: 2rem; color: black"> 
+  {{$block.Title}}
+</div>
+
+<div style="font-size: 1rem; color: black">
+  {{$block.Content }}
+</div>
+
+
+
+<!-- </div> -->
