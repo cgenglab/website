@@ -42,6 +42,16 @@ user_groups:
 - JST Support for Pioneering Research Initiated by the Next Generation (SPRING GX) 2021-2024
 - ACM ICPC 2018 World Finals
 
+### Domestic Conferences Invited Talks (Top Conference Invitation Slot)
+- [Visual Computing 2021](https://cgvi.jp/vc2021/program/oral/#intl_paper_02)
+- [Visual Computing 2023](https://visualcomputing.jp/vc2023/program/oral/#siggraph_paper_02)
+- [The 22nd Forum on Information technology (FIT2023)](https://onsite.gakkai-web.net/fit2023/abstract/data/html/event/event_TCS6-1.html)
+
+### Other Invited Talks
+- [SIGGRAPH 2023 - Birds of a Feather "Computer Graphics and Interactive Technologies in Japan"](https://s2023.siggraph.org/presentation/?id=villip_121&sess=sess438)
+- [Japanese Olympiad in Informatics (JOI) 2022 Summer Seminar General Lecture](https://www2.ioi-jp.org/seminar/2022/summer-semi.html)
+- [IPA Security Camp Forum 2022 Panel Discussion](https://www.ipa.go.jp/jinzai/security-camp/2021/forum2022.html)
+
 
 ### About Avater
 The old avatar image consists of 425 translucent circles.
