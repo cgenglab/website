@@ -35,11 +35,21 @@ user_groups:
 - [Fast Polygonal Splatting using Directional Kernel Difference (EGSR2021. 英語)](../../../en/publication/egsr21_blur/)
 - [MN-Coreアクセラレータ上での高速フーリエ変換の実装と評価 (第188回HPC研究発表会)](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=225178&item_no=1&page_id=13&block_id=8)
 
-### その他
+### 受賞、その他
 - ACM SIGGRAPH : SIGGRAPH Asia 2022 [**Best Technical Paper Award**](https://sa2022.siggraph.org/en/attend/award-winners/)
 - 情報処理学会 2023年度 [コンピュータサイエンス領域奨励賞](https://www.ipsj.or.jp/award/cs-award.html)
 - ACM ICPC 2018 World Finals 出場
 - JST次世代研究者挑戦的研究プログラム (SPRING GX) 採択 2021-2024
+
+### 国内会議 招待講演（トップカンファレンス招待枠）
+- [Visual Computing 2021](https://cgvi.jp/vc2021/program/oral/#intl_paper_02)
+- [Visual Computing 2023](https://visualcomputing.jp/vc2023/program/oral/#siggraph_paper_02)
+- [第22回情報科学技術フォーラム（FIT2023)](https://onsite.gakkai-web.net/fit2023/abstract/data/html/event/event_TCS6-1.html)
+
+### その他招待講演
+- [SIGGRAPH 2023 - Birds of a Feather "Computer Graphics and Interactive Technologies in Japan"](https://s2023.siggraph.org/presentation/?id=villip_121&sess=sess438)
+- [情報オリンピック 2022年夏期セミナー 全体講義](https://www2.ioi-jp.org/seminar/2022/summer-semi.html)
+- [IPAセキュリティキャンプ・フォーラム2022 パネルディスカッション](https://www.ipa.go.jp/jinzai/security-camp/2021/forum2022.html)
 
 ### 興味・関心
 - コンピュータグラフィックス
