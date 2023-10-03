@@ -51,6 +51,11 @@ user_groups:
 - [情報オリンピック 2022年夏期セミナー 全体講義](https://www2.ioi-jp.org/seminar/2022/summer-semi.html)
 - [IPAセキュリティキャンプ・フォーラム2022 パネルディスカッション](https://www.ipa.go.jp/jinzai/security-camp/2021/forum2022.html)
 
+### 技術書レビュー（出版前査読）
+- [JOI公式テキスト - Pythonで問題解決 情報オリンピックに出てみよう](https://www.jikkyo.co.jp/book/detail/22510044)
+- [競技プログラミングの鉄則 - アルゴリズム力と思考力を高める77の技術](https://book.mynavi.jp/ec/products/detail/id=131288)
+- [高校数学の基礎が150分でわかる本](https://www.diamond.co.jp/book/9784478117804.html)
+
 ### 興味・関心
 - コンピュータグラフィックス
 - 競技プログラミング
