@@ -31,7 +31,8 @@ user_groups:
 
 
 ### 発表
-- [Constant Time Median Filter using 2D Wavelet Matrix (SIGGRAPH Aisa 2022. 英語)](../../../en/publication/sigga22_wmatrix_median/)
+- [Fast Grayscale Morphology for Circular Window (Pacific Graphics 2023. 英語)](../../../en/publication/pg23_morphology/)
+- [Constant Time Median Filter using 2D Wavelet Matrix (SIGGRAPH Aisa 2022 **Best Paper Award**. 英語)](../../../en/publication/sigga22_wmatrix_median/)
 - [Fast Polygonal Splatting using Directional Kernel Difference (EGSR2021. 英語)](../../../en/publication/egsr21_blur/)
 - [MN-Coreアクセラレータ上での高速フーリエ変換の実装と評価 (第188回HPC研究発表会)](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=225178&item_no=1&page_id=13&block_id=8)
 
