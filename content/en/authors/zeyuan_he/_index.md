@@ -29,3 +29,5 @@ user_groups:
 - Master Students
 ---
 
+### Master Thesis
+Realtime Fracture Simulation with Stress-based Structural Analysis

@@ -49,3 +49,7 @@ To create a virtual world that can do things beyond reality is really cool. My d
 ### Hobbies
 
 -   Anime, Classical music
+
+### Master Thesis
+Automatic Dynamic Texture Compression for Facial Blendshapes using Differentiable Framework
+

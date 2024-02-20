@@ -71,7 +71,9 @@ user_groups:
 新しいアバターの画像は[こちら](./avatar.jpg)から。
 
 
-
-
 ### Link
 - [未踏名鑑](https://scrapbox.io/mitou-meikan/%E8%AB%B8%E6%88%B8_%E9%9B%84%E6%B2%BB)
+
+
+### 博士論文
+多角形カーネルに対応した統計的画像フィルタアルゴリズムの高速化

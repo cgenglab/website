@@ -29,3 +29,5 @@ user_groups:
 - Master Students
 ---
 
+### Master Thesis
+Sub-Grid Boundary Conditions in the Material Point Method

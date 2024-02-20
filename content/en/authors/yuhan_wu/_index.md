@@ -69,3 +69,6 @@ user_groups:
 
 ### Hobbies
 - Indie Game
+
+### Master Thesis
+Two-Way Coupling of Skinning Transformations and Position Based Dynamics

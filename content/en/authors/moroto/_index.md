@@ -62,3 +62,6 @@ The new avatar image is [here](./avatar.jpg).
 
 ### Links
 - [Mitou-Meikan (Japanese)](https://scrapbox.io/mitou-meikan/%E8%AB%B8%E6%88%B8_%E9%9B%84%E6%B2%BB)
+
+### Doctoral Thesis
+Acceleration Algorithms for Statistical Image Filtering with Polygonal Kernels

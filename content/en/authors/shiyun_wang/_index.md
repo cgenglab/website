@@ -29,3 +29,5 @@ user_groups:
 - Master Students
 ---
 
+### Master Thesis
+3D-aware Cinemagraph Generation from a Single Image

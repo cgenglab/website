@@ -21,6 +21,14 @@ The Interactive Graphics and Engineering Laboartory is in the <a href="https://w
 <H3>News</H3>
 <table>
 <tr valign='top'>	
+<td width=130px>(Jan. 2024)</td> 
+<td>Five students (Yuhan Wu, Yiyi Cai, Shiyun Wang, Jiajun Han, Zeyuan He) successfully defended their theses. Congrats!</td>
+<td></td>		
+<tr valign='top'>	
+<td width=130px>(Dec. 2023)</td> 
+<td>Yuji Moroto successfully defended his Ph.D thesis. Congrats!</td>
+<td></td>	
+<tr valign='top'>	
 <td width=130px>(Jun. 2023)</td> 
 <td>One paper is accepted at SCA 2023 and PACMCGIT journal</td>
 <td></td>
