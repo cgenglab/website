@@ -48,6 +48,7 @@ user_groups:
 - [The 22nd Forum on Information technology (FIT2023)](https://onsite.gakkai-web.net/fit2023/abstract/data/html/event/event_TCS6-1.html)
 
 ### Other Invited Talks
+- [SIGGRAPH Asia 2024 - Birds of a Feather "CG in Asia"](https://asia.siggraph.org/2023/presentation/?id=bof_134&sess=sess295)
 - [SIGGRAPH 2023 - Birds of a Feather "Computer Graphics and Interactive Technologies in Japan"](https://s2023.siggraph.org/presentation/?id=villip_121&sess=sess438)
 - [Japanese Olympiad in Informatics (JOI) 2022 Summer Seminar General Lecture](https://www2.ioi-jp.org/seminar/2022/summer-semi.html)
 - [IPA Security Camp Forum 2022 Panel Discussion](https://www.ipa.go.jp/jinzai/security-camp/2021/forum2022.html)
