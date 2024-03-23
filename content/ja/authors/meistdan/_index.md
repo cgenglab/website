@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral researcher
+role: JSPS外国人特別研究員
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 

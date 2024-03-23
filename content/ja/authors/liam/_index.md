@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 過去の修士交換留学生（特別研究学生，指導受託）
+role: 修士交換留学生（特別研究学生，指導受託）
 
 # Organizations/Affiliations
 organizations:

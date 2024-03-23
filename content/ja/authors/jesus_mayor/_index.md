@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 過去の客員研究員
+role: 客員研究員
 
 
 # Short bio (displayed in user profile at end of posts)

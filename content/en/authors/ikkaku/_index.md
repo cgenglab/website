@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Past Visitor
+role: Visitor
 
 # Organizations/Affiliations
 organizations:

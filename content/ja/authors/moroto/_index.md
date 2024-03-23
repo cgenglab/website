@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 過去に博士課程在籍
+role: 博士課程
 
 
 # Short bio (displayed in user profile at end of posts)

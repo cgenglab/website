@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 過去の訪問研究員
+role: 訪問研究員
 
 # Organizations/Affiliations
 organizations:

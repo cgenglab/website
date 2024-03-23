@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master Course Alumni
+role: Master Course
 
 # Organizations/Affiliations
 #organizations:

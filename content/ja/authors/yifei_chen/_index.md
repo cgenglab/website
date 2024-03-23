@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 過去に修士課程在籍
+role: 修士課程
 
 # Organizations/Affiliations
 #organizations:

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Past Postdoctoral Researcher
+role: JSPS Postdoctoral Fellowships for Research in Japan
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Past Exchange Master Student (Special Research Student)
+role: Exchange Master Student (Special Research Student)
 
 # Organizations/Affiliations
 organizations:
