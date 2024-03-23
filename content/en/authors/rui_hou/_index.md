@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master Course Alumni
+role: Master Studnet (2nd year)
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,6 +26,6 @@ role: Master Course Alumni
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Master Students
 ---
 

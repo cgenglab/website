@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 訪問研究員
+role: 過去の訪問研究員
 
 # Organizations/Affiliations
 organizations:
@@ -33,7 +33,7 @@ email: "n.umetani@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 卒業生
+- 過去の在籍者・訪問者
 ---
 
 株式会社島精機製作所と東京大学との共同研究に従事しています．

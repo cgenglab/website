@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 修士学生(M2)
+role: 博士学生(D1)
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,7 +26,7 @@ role: 修士学生(M2)
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 修士学生
+- 博士学生
 ---
 
 ### 修士論文

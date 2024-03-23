@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 客員研究員
+role: 過去の客員研究員
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,6 +26,6 @@ role: 客員研究員
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 卒業生
+- 過去の在籍者・訪問者
 ---
 

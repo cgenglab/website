@@ -18,7 +18,7 @@ subtitle = ""
                  "博士学生",
                  "修士学生",
                  "訪問者",
-                 "卒業生"]
+                 "過去の在籍者・訪問者"]
 
 [design]
   # Show user's social networking links? (true/false)

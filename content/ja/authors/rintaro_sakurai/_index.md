@@ -4,13 +4,13 @@ title: 櫻井　凛太郎
 
 # Username (this should match the folder name)
 authors: 
-- rintaro
+- rintaro_sakurai
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 修士学生(M2)
+role: 過去に修士課程在籍
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,7 +26,7 @@ role: 修士学生(M2)
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 卒業生
+- 過去の在籍者・訪問者
 ---
 
 ### 修士論文

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 博士学生(D4)
+role: 過去に博士課程在籍
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,7 +26,7 @@ role: 博士学生(D4)
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 卒業生
+- 過去の在籍者・訪問者
 ---
 
 <a href="http://graphics.ci.i.u-tokyo.ac.jp/smukherjee/">My Personal Page<a>

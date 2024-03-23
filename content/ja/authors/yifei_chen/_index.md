@@ -4,13 +4,13 @@ title: 陳　逸⾶ (Yifei Chen)
 
 # Username (this should match the folder name)
 authors:
-- yifei
+- yifei_chen
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 修士学生(M2)
+role: 過去に修士課程在籍
 
 # Organizations/Affiliations
 #organizations:
@@ -33,7 +33,7 @@ email: "n.umetani@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 卒業生
+- 過去の在籍者・訪問者
 ---
 
 I have a great interest in research about Data-Driven Animation and Machine Learning. I received my bachelor’s degree from New York Institute of Technology. Hobbies including developing indie game, watching anime and discovering traditional tasty food (=^･ω･^)y＝

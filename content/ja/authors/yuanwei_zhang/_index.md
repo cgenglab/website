@@ -4,13 +4,13 @@ title: 張　元瑋(Yuanwei Zhang)
 
 # Username (this should match the folder name)
 authors:
-- yuanwei
+- yuanwei_zhang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 修士学生(M2)
+role: 過去に修士課程在籍
 
 # Organizations/Affiliations
 #organizations:
@@ -34,7 +34,7 @@ email: "n.umetani@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 卒業生
+- 過去の在籍者・訪問者
 ---
 
 I'm a master student of the Department of Creative Informatics at the University of Tokyo, supervised by Prof. Nobuyuki Umetani. I obtained my bachelor degree in Computer Science and Technology from Peking University. My research interest is Computer Graphics, especially realistic and real-time simulation. <br>
