@@ -48,6 +48,7 @@ user_groups:
 - [第22回情報科学技術フォーラム（FIT2023)](https://onsite.gakkai-web.net/fit2023/abstract/data/html/event/event_TCS6-1.html)
 
 ### その他招待講演
+- [SIGGRAPH Asia 2024 - Birds of a Feather "CG in Asia"](https://asia.siggraph.org/2023/presentation/?id=bof_134&sess=sess295)
 - [SIGGRAPH 2023 - Birds of a Feather "Computer Graphics and Interactive Technologies in Japan"](https://s2023.siggraph.org/presentation/?id=villip_121&sess=sess438)
 - [情報オリンピック 2022年夏期セミナー 全体講義](https://www2.ioi-jp.org/seminar/2022/summer-semi.html)
 - [IPAセキュリティキャンプ・フォーラム2022 パネルディスカッション](https://www.ipa.go.jp/jinzai/security-camp/2021/forum2022.html)
@@ -56,6 +57,9 @@ user_groups:
 - [JOI公式テキスト - Pythonで問題解決 情報オリンピックに出てみよう](https://www.jikkyo.co.jp/book/detail/22510044)
 - [競技プログラミングの鉄則 - アルゴリズム力と思考力を高める77の技術](https://book.mynavi.jp/ec/products/detail/id=131288)
 - [高校数学の基礎が150分でわかる本](https://www.diamond.co.jp/book/9784478117804.html)
+
+### その他、教育サービスなど
+- [IPA セキュリティ・ミニキャンプ in 沖縄 2023 講師](https://www.security-camp.or.jp/minicamp/okinawa2023.html)
 
 ### 興味・関心
 - コンピュータグラフィックス
