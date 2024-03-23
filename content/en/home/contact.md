@@ -26,7 +26,7 @@ content:
 #      captcha: false
   
   # Contact details (edit or remove options as required)
-  email: umetani@ci.i.u-tokyo.ac.jp
+  email: n.umetani@gmail.com
   address:
     street: 'Bldg. I-REF 5th floor, 1-1-1 Yayoi'
     city: Bunkyo

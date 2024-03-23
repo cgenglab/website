@@ -32,13 +32,12 @@ content:
 #      captcha: false
   
   # Contact details (edit or remove options as required)
-  email: umetani@ci.i.u-tokyo.ac.jp
+  email: n.umetani@gmail.com
   address:
     street: '弥生１丁目1-1　東京大学　農学部キャンパス　I-REF棟 5階'
     city: 文京区
     region: 東京都
-    postcode: '〒113-8657 (<a href=https://goo.gl/maps/tRBDKovSYLq2A1ok8 target=_blank>Google
-    Map</a>)'
+    postcode: 〒113-8657(<a href=https://goo.gl/maps/tRBDKovSYLq2A1ok8 target=_blank>Google Map</a>) 
     country: Japan
     country_code: JP
   coordinates:

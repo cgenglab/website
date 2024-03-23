@@ -15,6 +15,7 @@ The Interactive Graphics and Engineering Laboartory is in the <a href="https://w
 <H3>Admission</H3>
 <ul>
 <li>We are recruting hardworking master and Ph.D students. Please take a look at the admission information on the <a href="https://www.i.u-tokyo.ac.jp/edu/entra/entra_e.shtml" target="_blank">the department's page</a>. If there is anything unclear, drop me an <a href="mailto:n.umetani@gmail.com">email</a>. </li>
+<li style="color: red;">Currently, we are not accepting research students.</li>
 </ul>
 
 

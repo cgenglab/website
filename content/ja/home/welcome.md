@@ -15,6 +15,7 @@ height = "50px"
 <H3>入学案内</H3>
 <ul>
 <li>修士や博士の学生を募集中です．入学については<a href="https://www.i.u-tokyo.ac.jp/edu/entra/index.shtml" target="_blank">専攻のページ</a>をご覧ください. 何か不明な点があれば<a href="mailto:n.umetani@gmail.com">メール</a>を下さい. </li>
+<li style="color: red;">現在、当研究室では研究生は受け入れていません。</li>
 </ul>
 
 <H3>News</H3>
