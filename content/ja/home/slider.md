@@ -16,6 +16,13 @@ design:
 content:
   slides:
     - title: ''
+      content: "反射特性を最適化する形状変形"
+      align: right
+      background:
+        color: '#333'
+        media: slider_stealth.png
+        brightness: 0.8  
+    - title: ''
       content: "紙飛行機の設計システム"
       align: right
       background:

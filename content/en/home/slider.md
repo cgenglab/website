@@ -16,6 +16,13 @@ design:
 content:
   slides:
     - title: ''
+      content: "reflectivity-driven shape optimization"
+      align: right
+      background:
+        color: '#333'
+        media: slider_stealth.png
+        brightness: 0.5
+    - title: ''
       content: interactive free-form airplane design
       align: right
       background:
