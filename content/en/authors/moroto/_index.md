@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D Student (3rd year)
+role: Ph.D Course Alumni
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,7 +26,7 @@ role: Ph.D Student (3rd year)
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Doctor Students
+- Alumni
 ---
 
 ### Interests

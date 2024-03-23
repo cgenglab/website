@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral researcher
+role: Past Postdoctoral Researcher
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 

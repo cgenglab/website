@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D Student (4th year)
+role: Ph.D Course Alumni
 
 
 # Short bio (displayed in user profile at end of posts)

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master Student (1st year)
+role: Master Course Alumni
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,6 +26,6 @@ role: Master Student (1st year)
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Alumni
 ---
 

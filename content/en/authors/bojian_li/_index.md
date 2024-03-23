@@ -4,13 +4,13 @@ title: Bojian Li
 
 # Username (this should match the folder name)
 authors:
-    - bojian_li
+- bojian_li
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master Student (1st year)
+role: Master Student (2nd year)
 
 # Short bio (displayed in user profile at end of posts)
 #bio:
@@ -35,7 +35,7 @@ role: Master Student (1st year)
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-    - Master Students
+- Master Students
 ---
 
 ### Links

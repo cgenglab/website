@@ -4,13 +4,13 @@ title: Yiyi Cai
 
 # Username (this should match the folder name)
 authors:
-    - yiyi_cai
+- yiyi_cai
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master Student (2nd year)
+role: Master Course Alumni
 
 # Short bio (displayed in user profile at end of posts)
 #bio:
@@ -35,7 +35,7 @@ education:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-    - Master Students
+- Alumni
 ---
 
 # **Biography**
