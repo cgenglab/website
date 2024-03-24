@@ -34,7 +34,10 @@ featured: false
 
 links:
 - name: Supplemental Video
-  url: https://www.youtube.com/watch?v=Rcp94v6mU3w  
+  url: https://www.youtube.com/watch?v=Rcp94v6mU3w
+- name: GitHub
+  url: https://github.com/nobuyuki83/accurate_bc_for_mls_mpm
+
 url_pdf: https://www.dropbox.com/scl/fi/3ldjvx7ilitsk9haeoy7p/2024_egshort_mlsmpm.pdf?rlkey=4oofpry4tdvkhl2zxpyy64h0l&dl=0
 
 # Featured image
