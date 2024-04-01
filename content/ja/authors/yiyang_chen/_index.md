@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Pablo Chen
+title: 陳 抑揚 (Yiyang Chen)
 
 # Username (this should match the folder name)
 authors: 
-- pablo_chen
+- yiyang_chen
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master Student (1st year)
+role: 修士学生 (M1)
 
 #social:
 #  - icon: envelope
@@ -27,7 +27,7 @@ role: Master Student (1st year)
 #      year: 2023
 
 user_groups:
-- Master Students
+- 修士学生
 
 
 
