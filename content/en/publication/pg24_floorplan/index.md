@@ -29,7 +29,7 @@ abstract: Designing floor plans is difficult because various constraints must be
 
 
 # Summary. An optional shortened abstract.
-summary: Pacific Graphics 2024
+summary: Proceedings of Pacific Graphics 2024
 
 tags:
 - Geometry Processing
