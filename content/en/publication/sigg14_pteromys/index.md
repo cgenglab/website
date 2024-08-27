@@ -37,7 +37,7 @@ featured: false
 
 links:
 - name: ACM Digital Library
-  url: https://dl.acm.org/doi/10.1145/3197517.3201325
+  url: https://dl.acm.org/doi/10.1145/2601097.2601129
 - name: YouTube video
   url: https://www.youtube.com/watch?v=-KJUVJAUY8o
 - name: Slides
