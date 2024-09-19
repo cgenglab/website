@@ -35,8 +35,10 @@ tags:
 - Geometry Processing
 featured: false
 
-#links:
-#url_pdf: https://www.dropbox.com/scl/fi/58yzb8b52g15e4ag19mb7/2023_pg23_morphology.pdf?rlkey=gaq7mglj14wivlsp27vggb9tz&dl=0
+links:
+- name: Project Page
+  url: https://github.com/nobuyuki83/floor_plan
+url_pdf: https://www.dropbox.com/scl/fi/culi7j1v14r9ax98rfmd6/2024_pg24_floorplan.pdf?rlkey=s5xwncuybrtsj5vyphhn61u0h&dl=0
 
 
 

@@ -33,7 +33,7 @@ role: 訪問研究員
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 訪問者
+- 過去の在籍者・訪問者
 ---
 
 日本精工株式会社と東京大学との共同研究に従事しています．
