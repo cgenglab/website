@@ -71,4 +71,4 @@ user_groups:
 
 2012年東京大学情報理工学系研究科博士後期課程終了．オートデスク研究所の主任研究員などを経て，現在，東京大学情報理工学系研究科准教授．博士（コンピュータ科学）．コンピュータを使った賢い設計支援や、物理シミュレーション、デジタル表現の支援を研究しています。
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="link" pack="fas" >}} <a href="https://researchmap.jp/nobuyuki_umetani">ResearchMapへのリンク</a>
