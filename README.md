@@ -4,6 +4,16 @@ We use Wowchemy template (https://github.com/wowchemy/starter-hugo-research-grou
 
 Look at the document at (https://wowchemy.com/docs/)
 
+## Set up environment
+
+look at `netlify.toml`to find the version of `hugo`. 
+
+Install `hugo_extended`, not `hugo` of the version from Hugo's GitHub. 
+
+https://github.com/gohugoio/hugo/releases
+
+Install `go-lang`
+
 
 ## Quick Preview
 
