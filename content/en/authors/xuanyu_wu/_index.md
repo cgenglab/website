@@ -16,21 +16,6 @@ role: Master Student (2nd year)
 # Short bio (displayed in user profile at end of posts)
 #bio: I'm a master student in the creative informatics department in the University of Tokyo.
 #I'm a Ph.D student in the creative informatics department in the University of Tokyo
-
-
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: mailto:wxy@g.ecc.u-tokyo.ac.jp
-
-# education:
-#   courses:
-#     - course: MSc in Creative Informatics
-#       institution: the University of Tokyo
-#       year: EST 2025
-#     - course: BEng in Architecture
-#       institution: Tokyo Metropolitan University
-#       year: 2023
       
 
 user_groups:
